@@ -1,0 +1,30 @@
+identity:
+  name: "motivational-quotes"
+  author: "amandevelops"
+  label:
+    en_US: "motivational-quotes"
+    zh_Hans: "motivational-quotes"
+    pt_BR: "motivational-quotes"
+description:
+  human:
+    en_US: "A plugin that provides random motivational quotes to inspire and uplift you."
+    zh_Hans: "A plugin that provides random motivational quotes to inspire and uplift you."
+    pt_BR: "A plugin that provides random motivational quotes to inspire and uplift you."
+  llm: "A plugin that provides random motivational quotes to inspire and uplift you."
+parameters:
+  - name: query
+    type: string
+    required: true
+    label:
+      en_US: Query string
+      zh_Hans: 查询语句
+      pt_BR: Query string
+    human_description:
+      en_US: "A plugin that provides random motivational quotes to inspire and uplift you."
+      zh_Hans: "A plugin that provides random motivational quotes to inspire and uplift you."
+      pt_BR: "A plugin that provides random motivational quotes to inspire and uplift you."
+    llm_description: "A plugin that provides random motivational quotes to inspire and uplift you."
+    form: llm
+extra:
+  python:
+    source: tools/motivational-quotes.py
