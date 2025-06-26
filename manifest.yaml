@@ -9,9 +9,9 @@ label:
   pt_BR: Frases Motivacionais
 description:
   en_US: A plugin that provides random motivational quotes to inspire and uplift you.
-  ja_JP: A plugin that provides random motivational quotes to inspire and uplift you.
-  zh_Hans: A plugin that provides random motivational quotes to inspire and uplift you.
-  pt_BR: A plugin that provides random motivational quotes to inspire and uplift you.
+  ja_JP: あなたを鼓舞し元気づけるランダムなモチベーション名言を提供するプラグインです。
+  zh_Hans: 一个提供随机励志名言以激励和鼓舞你的插件。
+  pt_BR: Um plugin que fornece citações motivacionais aleatórias para inspirar e elevar você.
 icon: icon.svg
 resource:
   memory: 268435456
