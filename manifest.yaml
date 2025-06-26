@@ -3,10 +3,10 @@ type: plugin
 author: amandevelops
 name: motivational-quotes
 label:
-  en_US: motivational-quotes
-  ja_JP: motivational-quotes
-  zh_Hans: motivational-quotes
-  pt_BR: motivational-quotes
+  en_US: Motivational Quotes
+  ja_JP: モチベーションを高める名言
+  zh_Hans: 励志名言
+  pt_BR: Frases Motivacionais
 description:
   en_US: A plugin that provides random motivational quotes to inspire and uplift you.
   ja_JP: A plugin that provides random motivational quotes to inspire and uplift you.
