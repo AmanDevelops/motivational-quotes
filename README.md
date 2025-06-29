@@ -73,7 +73,7 @@ def __init__(self):
 To package the plugin for distribution:
 
 ```bash
-dify-plugin plugin package ./
+dify plugin package ./motivational-quotes
 ```
 
 This will create a `plugin.difypkg` file that can be submitted to the Dify Marketplace.
